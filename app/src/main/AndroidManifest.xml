@@ -30,6 +30,18 @@
             android:name=".RegisterP"
             android:theme="@style/themezoo" />
 
+        <!-- Calculations -->
+        <activity
+            android:name=".Calculations"
+            android:theme="@style/nobar"/>
+        <activity
+            android:name=".FoodRecord"
+            android:theme="@style/themezoo" />
+        <activity
+            android:name=".TotalAnimals"
+            android:theme="@style/themezoo"/>
+        <activity android:name=".Receipt"
+            android:theme="@style/themezoo"/>
 
 
 
