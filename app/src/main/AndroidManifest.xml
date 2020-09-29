@@ -44,6 +44,19 @@
             android:theme="@style/themezoo"/>
 
 
+        <!-- Main Menus -->
+        <activity
+            android:name=".Page1"
+            android:theme="@style/nobar" />
+        <activity
+            android:name=".ZooMap"
+            android:theme="@style/nobar" />
+        <activity
+            android:name=".AnimalsDetails.DescAnimals"
+            android:theme="@style/nobar" />
+        <activity
+            android:name=".AnimalsDetails.AnimalsList"
+            android:theme="@style/nobar" />
 
 
     </application>
